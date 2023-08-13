@@ -1,2 +1,2 @@
 # Super Hero Hunter
-[Project Link](https://codesimpllified.github.io/super-hero-hunter/)
+[Project Link](https://simplysanjeev.github.io/super-hero-hunter/)
